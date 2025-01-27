@@ -6,7 +6,7 @@
 Robotics <br/>
 Reinforcement Learning <br/>
 Puzzle Solving <br/>
-Search(MCTS, A*) <br/>
+Planning & Search(MCTS, A*) <br/>
 
 
 <b> Stacks </b></h2> 
