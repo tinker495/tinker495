@@ -22,7 +22,7 @@
 | Project | Description |
 |:-------:|:----------:|
 | [jax-baseline](https://github.com/tinker495/jax-baseline) | JAX implementation of baseline reinforcment learning algorithms |
-| [Xtructure](https://github.com/tinker495/Xtructure) | JAX-optimized data structures (only Heap & Hash for now) |
+| [Xtructure](https://github.com/tinker495/Xtructure) | JAX-optimized data structures |
 | [JA<sup>xtar</sup>](https://github.com/tinker495/JAxtar) | JAX implementation of A* & Q* |
 
 </div>
