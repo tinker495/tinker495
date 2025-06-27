@@ -23,6 +23,7 @@
 |:-------:|:----------:|
 | [jax-baseline](https://github.com/tinker495/jax-baseline) | JAX implementation of baseline reinforcment learning algorithms |
 | [Xtructure](https://github.com/tinker495/Xtructure) | JAX-optimized data structures |
+| [PuXle](https://github.com/tinker495/PuXle) | Xtructure core based JAX-optimized deterministic Puzzles |
 | [JA<sup>xtar</sup>](https://github.com/tinker495/JAxtar) | JAX implementation of A* & Q* |
 
 </div>
